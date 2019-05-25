@@ -1,5 +1,5 @@
 /**
- * 
+ * 输入n个整数，输出出现次数大于等于数组长度一半的数
  */
 
 import java.util.Scanner;
